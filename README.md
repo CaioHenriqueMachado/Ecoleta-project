@@ -6,7 +6,7 @@
 Ecoleta
 </h1>
 
-<p align="center">Mobile and web application of monetary donation for NGOs, built in one week Omnistack</p>
+<p align="center">Application for selective collection to find collection points throughout your region.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
