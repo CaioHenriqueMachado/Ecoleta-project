@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./frontend/src/assets/logo.svg" alt="BeTheHero" width="120">
+  <img src="./web/src/assets/logo.svg" alt="Ecoleta" width="120">
 <br>
 <br>
 Ecoleta
@@ -15,7 +15,7 @@ Ecoleta
 </p>
 
 <div>
-  <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
+  <img src="./web/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
   <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
 </div>
 
@@ -28,32 +28,32 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **React Js** 	- A JavaScript library for building user interfaces
 - ⚛️ **React Native** 	- A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** 	- A web framework for Node Js
+- 📄 **TypeScript**	- To bring static typing to JavaScript.
 - 📄 **SQlite** 		- A cross-platform and open-source Structured Query Language.
 - ☯️ **Insomnia** 	- HTTP request software and with open source.
-- 🔄 **Nodemon** 	- Reload server automatically.
+
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/CaioHenriqueMachado/BE-THE-HERO-project.git`
-2. Move yourself to the appropriate directory: `cd BeTheHero`<br />
-3. Run `yarn` to install dependencies<br />
+1. Clone this repo using `git clone https://github.com/CaioHenriqueMachado/Ecoleta-project.git`
+2. Move yourself to the appropriate directory: `cd Ecoleta-project`<br />
 3. Run `npm` to install dependencies<br />
 
 
 ### Getting started with the backend server
 
-1. Move yourself to the backend folder: `cd backend`
-2. Run `npm start` to start the server
+1. Move yourself to the backend folder: `cd server`
+2. Run `npm run dev` to start the server
 
 ### Getting started with the frontend app
 
-1. Move yourself to the frontend folder: `cd frontend`
-2. Run `yarn start` to start the web application
+1. Move yourself to the frontend folder: `cd web`
+2. Run `npm start` to start the web application
 
 ### Getting started with the mobile app
 
 1. Move yourself to the mobile folder: `cd mobile`
-2. Run `yarn start` to start the mobile app
+2. Run `npm start` to start the mobile app
 
 
 ## License
