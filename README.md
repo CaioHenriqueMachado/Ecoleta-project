@@ -15,8 +15,8 @@ Ecoleta
 </p>
 
 <div>
-  <img src="./web/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
-  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
+  <img src="./web/src/assets/demo_web.gif" alt="demo-web" height="450" width="70%">
+  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="450" width="70%">
 </div>
 
 <hr />
