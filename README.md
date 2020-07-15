@@ -14,9 +14,13 @@ Ecoleta
   </a>
 </p>
 
+<h1 align="center">Web Version</h1>
 <div>
-  <img src="./web/src/assets/demo_web.gif" alt="demo-web" height="450" width="70%">
-  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="450" width="70%">
+  <img src="./web/src/assets/demo_web.gif" alt="demo-web" height="450" width="100%">
+</div>
+<h1 align="center">Mobile Version</h1>
+<div align="center">
+  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="450" width="30%">
 </div>
 
 <hr />
